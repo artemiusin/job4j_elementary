@@ -28,7 +28,7 @@ class PointTest {
     }
 
     @Test
-    void whenMinus11toMinus20Then3Dot16() {
+    void whenMinus11toMinus20Then1Dot41() {
         int x1 = -1;
         int x2 = -2;
         int y1 = 1;
